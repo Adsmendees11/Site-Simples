@@ -1,6 +1,6 @@
 # 📱 História do Android
 
-Este projeto foi desenvolvido como parte do curso **HTML5 e CSS3** do professor [Gustavo Guanabara](https://www.cursoemvideo.com/), com o objetivo de criar um site simples e informativo sobre a **história do sistema operacional Android**.
+Este projeto foi desenvolvido como parte do curso **HTML5 e CSS3** do professor [Gustavo Guanabara](https://www.cursoemvideo.com/), com o objetivo de criar um site simples e informativo sobre a **história do Mascote Android**.
 
 ---
 
@@ -15,7 +15,6 @@ O site apresenta uma linha do tempo com os principais marcos da evolução do An
 Você pode visualizar o projeto publicado através do GitHub Pages clicando no link abaixo:
 
 👉 [**Ver site online**](https://adsmendees11.github.io/Site-Simples/)  
-*(substitua o link acima se o nome do repositório for diferente)*
 
 ---
 
